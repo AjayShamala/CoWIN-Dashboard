@@ -1,1 +1,13 @@
-/* Write your CSS here */
+.bg-containers {
+  background-color: #1c1c2b;
+  background-size: cover;
+  margin: 90px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.main-heading {
+  color: #6c757d;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
