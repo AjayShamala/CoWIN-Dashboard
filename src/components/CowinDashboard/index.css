@@ -1,1 +1,28 @@
-/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  background-size: cover;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+.image-2 {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+.row-container {
+  display: flex;
+}
+.paras {
+  color: #2cc6c6;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 18px;
+
+  font-family: 'Roboto';
+}
+.heads {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 23px;
+}
